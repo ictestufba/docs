@@ -2,6 +2,7 @@
 
 ## Ferramenta de gestão
 GitHub Projects (issues e milestones)
+![GitHub Projects](https://user-images.githubusercontent.com/15656022/228065824-c3fe179f-7345-41d4-bb5b-040fd859ceb0.png)
 
 ## Processo de desenvolvimento
 Kanban
