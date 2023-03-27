@@ -8,7 +8,7 @@ GitHub Projects (issues e milestones)
 Kanban
 
 ## Requisitos
-https://docs.google.com/spreadsheets/d/1_8DkqfZRIkV0UVfI4jnyzxO-GWy2yUjhO6l257PduEU/edit#gid=0
+[Documento de requisitos](https://docs.google.com/spreadsheets/d/1_8DkqfZRIkV0UVfI4jnyzxO-GWy2yUjhO6l257PduEU/edit#gid=0)
 
 ## Tecnologias
 
