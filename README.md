@@ -2,7 +2,6 @@
 
 ## Ferramenta de gestão
 GitHub Projects (issues e milestones)
-![GitHub Projects](https://user-images.githubusercontent.com/15656022/228065824-c3fe179f-7345-41d4-bb5b-040fd859ceb0.png)
 
 ## Processo de desenvolvimento
 Kanban
@@ -34,12 +33,11 @@ Kanban
 
 **[📝Requisitos](https://docs.google.com/spreadsheets/d/1_8DkqfZRIkV0UVfI4jnyzxO-GWy2yUjhO6l257PduEU/edit#gid=0)**
 
-**👩[🏽‍💻 Organização](https://github.com/ictestufba):**
+**[🏽‍💻 Organização](https://github.com/ictestufba):**
 
 **[🛠️Projeto](https://github.com/orgs/ictestufba/projects/1)**
 
-**🔀 ERD:**
-https://whimsical.com/erd-ictest-7T2iPXGwiC9E3aRY5in5Uq
+**[🔀 ERD](https://whimsical.com/erd-ictest-7T2iPXGwiC9E3aRY5in5Uq)**
 
 **[🎨 Protótipo Navegável](https://www.figma.com/proto/eRpAMntIiMcvAIUacHEoez/ictestufba?node-id=57-16051&scaling=min-zoom&page-id=1%3A2&starting-point-node-id=57%3A16051)**
 
