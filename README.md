@@ -12,9 +12,13 @@ Kanban
 
 ## Tecnologias
 
+## Design
+- Figma
+- Whimsical
+
 ## Frontend
 - React
-- Biblioteca de UI (1): Material UI, Chakra, Ant Design etc
+- Biblioteca de UI (1): [Ant Design](https://ant.design/components/overview/) etc
 - Testes unitários: jest + react test library
 - Testes E2E: Playwright ou Cypress
 
