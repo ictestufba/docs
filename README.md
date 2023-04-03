@@ -33,7 +33,7 @@ Kanban
 
 **[📝Requisitos](https://docs.google.com/spreadsheets/d/1_8DkqfZRIkV0UVfI4jnyzxO-GWy2yUjhO6l257PduEU/edit#gid=0)**
 
-**[🏽‍💻 Organização](https://github.com/ictestufba):**
+**[🏽‍💻 Organização](https://github.com/ictestufba)**
 
 **[🛠️Projeto](https://github.com/orgs/ictestufba/projects/1)**
 
