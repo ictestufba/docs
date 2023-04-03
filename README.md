@@ -36,7 +36,7 @@ https://docs.google.com/presentation/d/1up1pNUc-lEF3kwGWe2mHribKED30_BXIN3M7yvZc
 **📝Requisitos:**
 https://docs.google.com/spreadsheets/d/1_8DkqfZRIkV0UVfI4jnyzxO-GWy2yUjhO6l257PduEU/edit#gid=0
 
-**👩🏽‍💻 Repositório:**
+**👩🏽‍💻 Organização:**
 https://github.com/ictestufba
 
 **🛠️Projeto:**
