@@ -48,5 +48,8 @@ https://whimsical.com/erd-ictest-7T2iPXGwiC9E3aRY5in5Uq
 **🎨 Figma:**
 https://www.figma.com/file/eRpAMntIiMcvAIUacHEoez/ictestufba?node-id=0%3A1&t=F6fKlLb1Kkbzb6tD-1
 
+**🎨 Protótipo Navegável**
+https://www.figma.com/proto/eRpAMntIiMcvAIUacHEoez/ictestufba?node-id=57-16051&scaling=scale-down-width&page-id=1%3A2&starting-point-node-id=57%3A16051
+
 **➡️UserFlow**
 https://whimsical.com/userflow-ictest-XxSCN4xxVWwnpLDXXVJY7F
