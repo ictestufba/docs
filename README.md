@@ -18,7 +18,7 @@ Kanban
 
 ## Frontend
 - React
-- Biblioteca de UI (1): [Ant Design](https://ant.design/components/overview/) etc
+- Biblioteca de UI (1): [Ant Design](https://ant.design/components/overview/)
 - Testes unitários: jest + react test library
 - Testes E2E: Playwright ou Cypress
 
