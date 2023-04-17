@@ -43,3 +43,4 @@ Kanban
 
 **[➡️UserFlow](https://whimsical.com/userflow-ictest-XxSCN4xxVWwnpLDXXVJY7F)**
 
+**[📐Arquitetura](https://whimsical.com/ictest-arquitetura-82rUC9BaZGkek2YkNim7E9)**
