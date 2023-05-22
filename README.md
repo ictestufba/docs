@@ -45,6 +45,6 @@ Kanban
 
 **[📐Arquitetura](https://whimsical.com/ictest-arquitetura-82rUC9BaZGkek2YkNim7E9)**
 
-**[💻 Aplicação em produção](https://ictest-frontend-git-feat-test-edit-ictest-ufba.vercel.app/login)**
+**[💻 Aplicação em produção](https://ictest-frontend.vercel.app/login)**
 
 **[🧪Apresentação - Testes](https://docs.google.com/presentation/d/102RCn6x8P_sTnGRlzhLy_tyw5474Rn4yu79ui5ljgCk/edit?usp=sharing)**
