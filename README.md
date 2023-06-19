@@ -4,9 +4,9 @@ Para implantação do projeto, é necessário rodar o back-end (API) e o front-e
 
 ## Back-end
 
-- Inicialmente, você precisa ter o [Docker](https://www.docker.com/) instalado na sua máquina, além do (Node.js)[https://nodejs.org/en] (versão LTS).
+- Inicialmente, você precisa ter o [Docker](https://www.docker.com/) instalado na sua máquina, além do [Node.js](https://nodejs.org/en) (versão LTS).
 
-- Com o Docker e o Node.js instalado, clone o repositório o (repositório do back-end)[https://github.com/ictestufba/ictest-backend].
+- Com o Docker e o Node.js instalado, clone o repositório o [repositório do back-end](https://github.com/ictestufba/ictest-backend).
 
 - Na raiz do projeto, crie um arquivo `.env` para declarar as variáveis de ambiente `NODE_ENV`, `JWT_SECRET` e `DATABASE_URL` (veja o exemplo no arquivo `.env.example`). Dica do formato da URL do PostgreSQL: `postgresql://usuario:senha@ip:porta/banco-de-dados?schema=nome-do-schema`. Para o caso do ambiente de desenvolvimento, conforme o docker-compose: `postgresql://docker:docker@localhost:5432/ictest?schema=public`
 
