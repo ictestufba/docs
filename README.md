@@ -26,10 +26,17 @@ npm i
 npx prisma migrate dev
 ```
 
-- Por fim, rode o back-end com o seguinte comando:
+- Por fim, rode o back-end com os seguintes comandos:
 
+Modo de desenvolvimento:
 ```bash
 npm run start:dev
+```
+
+Produção:
+```bash
+npm run build
+npm run start
 ```
 
 # Documentação
