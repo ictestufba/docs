@@ -53,10 +53,16 @@ npm i
 
 - Na raiz do projeto, crie um arquivo `.env` para declarar a variável de ambiente `NEXT_PUBLIC_API_URL` (veja o exemplo no arquivo `.env.example`). Trabalhando com a API local esse valor será `http://localhost:8080`.
 
+- Gere uma versão de produção do front-end com o comando a seguir:
+
+```bash
+npm run build
+```
+
 - Para rodar o front-end, execute o seguinte comando:
 
 ```bash
-npm start
+npm run start
 ```
 
 - Para acessar a aplicação, abra algum navegador no endereço `http://localhost:3000/login`
