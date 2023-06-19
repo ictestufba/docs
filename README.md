@@ -2,9 +2,12 @@
 
 Para implantação do projeto, é necessário rodar o back-end (API) e o front-end, conforme instruções a seguir.
 
-## Back-end
+## Configuração necessária
 
-- Inicialmente, você precisa ter o [Docker](https://www.docker.com/) instalado na sua máquina, além do [Node.js](https://nodejs.org/en) (versão LTS).
+- Docker
+- Node.js (versão LTS atualizada), com NPM
+
+## Back-end
 
 - Com o Docker e o Node.js instalado, clone o repositório o [repositório do back-end](https://github.com/ictestufba/ictest-backend).
 
@@ -26,18 +29,37 @@ npm i
 npx prisma migrate dev
 ```
 
-- Por fim, rode o back-end com os seguintes comandos:
+- Rode o comando a seguir para gerar uma versão de produção do projeto:
 
-Modo de desenvolvimento:
-```bash
-npm run start:dev
-```
-
-Produção:
 ```bash
 npm run build
+```
+
+- Por fim, rode o back-end com o seguinte comando:
+
+```bash
 npm run start
 ```
+
+## Front-end
+
+- Com o Docker e o Node.js instalado, clone o repositório o [repositório do front-end](https://github.com/ictestufba/ictest-frontend).
+
+- Dentro da pasta do projeto, rode o comando a seguir para instalar as dependências:
+
+```bash
+npm i
+```
+
+- Na raiz do projeto, crie um arquivo `.env` para declarar a variável de ambiente `NEXT_PUBLIC_API_URL` (veja o exemplo no arquivo `.env.example`). Trabalhando com a API local esse valor será `http://localhost:8080`.
+
+- Para rodar o front-end, execute o seguinte comando:
+
+```bash
+npm start
+```
+
+- Para acessar a aplicação, abra algum navegador no endereço `http://localhost:3000/login`
 
 # Documentação
 
