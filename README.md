@@ -1,4 +1,38 @@
-# Documentação inicial
+# Instruções para implantação do projeto
+
+Para implantação do projeto, é necessário rodar o back-end (API) e o front-end, conforme instruções a seguir.
+
+## Back-end
+
+- Inicialmente, você precisa ter o [Docker](https://www.docker.com/) instalado na sua máquina, além do (Node.js)[https://nodejs.org/en] (versão LTS).
+
+- Com o Docker e o Node.js instalado, clone o repositório o (repositório do back-end)[https://github.com/ictestufba/ictest-backend].
+
+- Na raiz do projeto, crie um arquivo `.env` para declarar as variáveis de ambiente `NODE_ENV`, `JWT_SECRET` e `DATABASE_URL` (veja o exemplo no arquivo `.env.example`). Dica do formato da URL do PostgreSQL: `postgresql://usuario:senha@ip:porta/banco-de-dados?schema=nome-do-schema`. Para o caso do ambiente de desenvolvimento, conforme o docker-compose: `postgresql://docker:docker@localhost:5432/ictest?schema=public`
+
+- Dentro da pasta do projeto, rode os comandos a seguir para subir o banco de dados e instalar as dependências:
+
+```bash
+docker compose up -d
+```
+
+```bash
+npm i
+```
+
+- Com as dependências instaladas e com o banco de dados rodando, execute o comando a seguir para subir as migrações:
+
+```bash
+npx prisma migrate dev
+```
+
+- Por fim, rode o back-end com o seguinte comando:
+
+```bash
+npm run start:dev
+```
+
+# Documentação
 
 ## Ferramenta de gestão
 GitHub Projects (issues e milestones)
